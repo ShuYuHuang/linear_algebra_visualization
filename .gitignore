@@ -1,0 +1,15 @@
+.ipy*
+*.csv
+*.tar.gz
+mnistm_half
+source*
+val
+target_*
+val_*
+meta_source*
+meta_val*
+ans.csv
+SampleSubmission.csv
+*.bin
+push.sh
+__pycache__
